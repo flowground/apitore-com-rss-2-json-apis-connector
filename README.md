@@ -1,11 +1,11 @@
-# ![LOGO](logo.png) RSS2JSON APIs MSP Connector
+# ![LOGO](logo.png) RSS2JSON APIs **flow**ground Connector
 
 ## Description
 
-A generated MSP connector for the RSS2JSON APIs API (version 0.0.1).
+A generated **flow**ground connector for the RSS2JSON APIs API (version 0.0.1).
 
 Generated from: https://api.apis.guru/v2/specs/apitore.com/rss2jsonApis/0.0.1/swagger.json<br/>
-Generated at: 2019-05-07T11:17:02+03:00
+Generated at: 2019-05-07T17:36:42+03:00
 
 ## API Description
 
@@ -29,7 +29,7 @@ This API does not require authorization.
 
 ## License
 
-flowground :- Telekom iPaaS / apitore-com-rss-2-json-apis-connector<br/>
+**flow**ground :- Telekom iPaaS / apitore-com-rss-2-json-apis-connector<br/>
 Copyright © 2019, [Deutsche Telekom AG](https://www.telekom.de)<br/>
 contact: flowground@telekom.de
 
